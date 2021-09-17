@@ -21,9 +21,12 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="github-readme-stats-dragonmasterx87.vercel.app" />
+ <img align="left" alt="Dragonamsterx87's GitHub Stats" src="https://github-readme-stats-dragonmasterx87.vercel.app/api?username=Dragonmasterx87&show_icons=true&hide_border=true" />
 
 </details>
+
+[![Dragonmasterx87's GitHub stats](https://github-readme-stats-dragonamsterx87.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [twitter]: https://twitter.com/Fahdqadir
 [linkedin]: https://www.linkedin.com/in/fahdqadir/
