@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate and help research groups with projects related to [transcriptomics](https://en.wikipedia.org/wiki/Transcriptomics_technologies) and [systems biology](https://en.wikipedia.org/wiki/Systems_biology)
 - 🤔 I’m looking for help with the quantum nature of reality
+- 🖖 I'm a [Trekkie/Trekker](https://en.wikipedia.org/wiki/Trekkie) 
 - 💬 Ask me about transcriptomics analysis
 - 📫 How to reach me: fahdqadir@gmail.com
 - 😄 Pronouns: He/Him/His
