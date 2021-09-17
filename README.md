@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm Fahd aka Dragonmasterx87 👋
 
-<!--
-**Dragonmasterx87/Dragonmasterx87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Husband, Systems Biologist, Developer, and Teacher!!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Computational approaches to dissect sex differences in human metabolism
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate on projects related to transcriptomics and systems biology
+- 🤔 I’m looking for help with the quantum nature of reality
+- 💬 Ask me about transcriptomics analysis
+- 📫 How to reach me: fahdqadir@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="github-readme-stats-dragonmasterx87.vercel.app" />
+
+</details>
+
+[twitter]: https://twitter.com/Fahdqadir
+[linkedin]: https://www.linkedin.com/in/fahdqadir/
