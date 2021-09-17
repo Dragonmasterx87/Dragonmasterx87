@@ -13,17 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dragonmasterx87 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Dragonmasterx87 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-
-  <summary>:zap: GitHub Stats</summary>
-
- <img align="left" alt="Dragonamsterx87's GitHub Stats" src="https://github-readme-stats-dragonamsterx87.vercel.app)](https://github.com/anuraghazra/github-readme-stats" />
-
-</details>
 
 [![Dragonmasterx87's GitHub stats](https://github-readme-stats-dragonamsterx87.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
