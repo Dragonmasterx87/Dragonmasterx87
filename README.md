@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on: Computational approaches to dissect sex differences in human metabolism
 - 🏫 I have attended: [The University of Miami, Miller School of Medicine](https://med.miami.edu/) for a [PhD in Molecular Cell and Devlopmental Biology](https://med.miami.edu/en/graduate-studies/doctoral-programs/molecular-cell-and-developmental-biology), in the lab of [Dr. Juan Dominguez-Bendala](https://med.miami.edu/labs/Staging/dominguez-bendala-lab).
 - 👨‍🔬 I have studied the correlation of [BMP7 signalling and pancreas regeneration](https://scholarship.miami.edu/esploro/outputs/doctoral/Induction-of-Beta-Cell-Regeneration-by-Activin-Like-Kinase-3-Stimulation/991031447541002976)
+- 📜 You can read about my scientific publications in [Google Scholar](https://scholar.google.com/citations?user=RRFfx7YAAAAJ&hl=en) and [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=qadir%20MMF)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate and help research groups with projects related to [transcriptomics](https://en.wikipedia.org/wiki/Transcriptomics_technologies) and [systems biology](https://en.wikipedia.org/wiki/Systems_biology)
 - 🤔 I’m looking for help with the quantum nature of reality
