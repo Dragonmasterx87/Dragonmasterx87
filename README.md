@@ -21,7 +21,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
- <img align="left" alt="Dragonamsterx87's GitHub Stats" src="https://github-readme-stats-dragonmasterx87.vercel.app/api?username=Dragonmasterx87&show_icons=true&hide_border=true" />
+ <img align="left" alt="Dragonamsterx87's GitHub Stats" src="https://https://github-readme-stats-dragonamsterx87.vercel.app/api?username=Dragonmasterx87&show_icons=true&hide_border=true" />
 
 </details>
 
