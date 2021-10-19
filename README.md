@@ -22,13 +22,6 @@
 [<img align="left" alt="Dragonmasterx87 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Dragonmasterx87 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-<br />
-
- <img align="left" alt="Dragonamsterx87's GitHub Stats" src="https://github-readme-stats-dragonmasterx87.vercel.app/api?username=Dragonmasterx87&show_icons=true&hide_border=true" />
-
-</details>
-
 [Thesis]: https://scholarship.miami.edu/esploro/outputs/doctoral/Induction-of-Beta-Cell-Regeneration-by-Activin-Like-Kinase-3-Stimulation/991031447541002976
 [twitter]: https://twitter.com/Fahdqadir
 [linkedin]: https://www.linkedin.com/in/fahdqadir/
