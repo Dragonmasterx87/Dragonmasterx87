@@ -9,7 +9,6 @@
 - 👨‍🔬 I have studied the correlation of [BMP7 signalling and pancreas regeneration](https://scholarship.miami.edu/esploro/outputs/doctoral/Induction-of-Beta-Cell-Regeneration-by-Activin-Like-Kinase-3-Stimulation/991031447541002976)
 - 📜 You can read about my scientific publications in [Google Scholar](https://scholar.google.com/citations?user=RRFfx7YAAAAJ&hl=en) and [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=qadir%20MMF)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate and help research groups with projects related to [transcriptomics](https://en.wikipedia.org/wiki/Transcriptomics_technologies) and [systems biology](https://en.wikipedia.org/wiki/Systems_biology)
 - 🤔 I’m looking for help with the [quantum nature of reality](https://www.science.org/news/2017/10/quantum-experiment-space-confirms-reality-what-you-make-it-0)
 - 🖖 I'm a [Trekkie/Trekker](https://en.wikipedia.org/wiki/Trekkie) 
 - 💬 Ask me about transcriptomics analysis
