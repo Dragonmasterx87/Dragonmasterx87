@@ -16,6 +16,11 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: In mammals, [pancreatic beta-cells](https://en.wikipedia.org/wiki/Beta_cell) release a hormone called [Insulin](https://en.wikipedia.org/wiki/Insulin), which works along with another hormone called [Glucagon](https://en.wikipedia.org/wiki/Glucagon) to maintain blood glucose within a very narrow window, an hallmark ability unique to higher vertebrates. In humans pancreatic beta-cells contain [13,000 Insulin granules](https://link.springer.com/article/10.1007/BF01230690), wheras mouse beta-cells contain [10,000 insulin granules](https://pubmed.ncbi.nlm.nih.gov/11976915/). Intrested? Read more [here](https://link.springer.com/article/10.1007/s00125-003-1153-1).
 
+![Fahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragonmasterx87&show_icons=true&theme=dark)
+
+Check out my website for more info:
+https://fahdqadir.phd.sh/
+
 ### Connect with me:
 
 [<img align="left" alt="Dragonmasterx87 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -24,11 +29,3 @@
 [Thesis]: https://scholarship.miami.edu/esploro/outputs/doctoral/Induction-of-Beta-Cell-Regeneration-by-Activin-Like-Kinase-3-Stimulation/991031447541002976
 [twitter]: https://twitter.com/Fahdqadir
 [linkedin]: https://www.linkedin.com/in/fahdqadir/
-
-
-
-
-Check out my website for more info:
-https://fahdqadir.phd.sh/
-
-[![Fahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragonmasterx87&show_icons=true&theme=dark)]
