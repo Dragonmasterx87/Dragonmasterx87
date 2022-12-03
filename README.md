@@ -28,7 +28,7 @@
 ### Hi there, I'm Mitchell 👋
 
 Check out my website for more info:
-https://mrvollger.github.io/
+https://fahdqadir.phd.sh/
 
 [![Fahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragonmasterx87&show_icons=true&theme=dark)]
 
