@@ -1,6 +1,10 @@
 ## Hi there, im the Dragonmasterx87 👋
 ### I'm a Computational and Systems Biologist, Islet Biologist, Developer, and Research Scientist!!
 
+<p align="center">
+  <img width="400" height="250" src="https://github.com/Dragonmasterx87/Gifs/blob/main/DZ_goku.gif">
+</p>
+
 - 🔭 I’m currently working on: Computational approaches to dissect sex differences in human metabolism
 - 🏫 I have attended: [The University of Miami, Miller School of Medicine](https://med.miami.edu/) for a [PhD in Molecular Cell and Devlopmental Biology](https://med.miami.edu/en/graduate-studies/doctoral-programs/molecular-cell-and-developmental-biology), in the lab of [Dr. Juan Dominguez-Bendala](https://med.miami.edu/labs/dom%C3%ADnguez-bendala-lab).
 - 👨‍🔬 I have studied the correlation of [BMP7 signalling and pancreas regeneration](https://scholarship.miami.edu/esploro/outputs/doctoral/Induction-of-Beta-Cell-Regeneration-by-Activin-Like-Kinase-3-Stimulation/991031447541002976)
@@ -14,3 +18,4 @@
 - ⚡ Fun fact: In mammals, [pancreatic beta-cells](https://en.wikipedia.org/wiki/Beta_cell) release a hormone called [Insulin](https://en.wikipedia.org/wiki/Insulin), which works along with another hormone called [Glucagon](https://en.wikipedia.org/wiki/Glucagon) to maintain blood glucose within a very narrow window, an hallmark ability unique to higher vertebrates. In humans pancreatic beta-cells contain [13,000 Insulin granules](https://link.springer.com/article/10.1007/BF01230690), wheras mouse beta-cells contain [10,000 insulin granules](https://pubmed.ncbi.nlm.nih.gov/11976915/). Intrested? Read more [here](https://link.springer.com/article/10.1007/s00125-003-1153-1).
 
 [Thesis]: https://scholarship.miami.edu/esploro/outputs/doctoral/Induction-of-Beta-Cell-Regeneration-by-Activin-Like-Kinase-3-Stimulation/991031447541002976
+
