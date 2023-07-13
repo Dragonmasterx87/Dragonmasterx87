@@ -24,6 +24,8 @@
 
 [Thesis]: https://scholarship.miami.edu/esploro/outputs/doctoral/Induction-of-Beta-Cell-Regeneration-by-Activin-Like-Kinase-3-Stimulation/991031447541002976
 
+![Dragonmasterx87's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragonmasterx87&show_icons=true&theme=highcontrast)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Dragonmasterx87)
 
 ## 😂 Here is a random joke that'll make you laugh!
