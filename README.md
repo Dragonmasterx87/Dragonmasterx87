@@ -2,7 +2,7 @@
 ### I'm a Computational and Systems Biologist, Islet Biologist, Developer, and Research Scientist!!
 
 <p align="center">
-  <img width="400" height="250" src="https://github.com/Dragonmasterx87/Gifs/blob/main/DZ_goku.gif">
+  <img width="400" height="250" src="https://github.com/Dragonmasterx87/Gifs/blob/main/finalgetten.gif">
 </p>
 
 - 🔭 I’m currently working on: Computational approaches to dissect sex differences in human metabolism
