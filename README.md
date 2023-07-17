@@ -15,6 +15,7 @@ Saigo no Getsuga Tenshō 最後の月牙天衝
 - 📜 You can read about my scientific publications in [Google Scholar](https://scholar.google.com/citations?user=RRFfx7YAAAAJ&hl=en) and [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=qadir%20MMF)
 - 🌱 I’m currently learning everything 🤣
 - 🤔 I’m looking for help with the [quantum nature of reality](https://www.science.org/news/2017/10/quantum-experiment-space-confirms-reality-what-you-make-it-0)
+- 🤔 I love Japanese anime, especially Bleach and Naruto!
 - 🖖 I'm a [Trekkie/Trekker](https://en.wikipedia.org/wiki/Trekkie) 
 
 <p align="center">
