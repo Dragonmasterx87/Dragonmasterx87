@@ -1,13 +1,6 @@
 ## Hi there, im the Dragonmasterx87 👋
 ### I'm a Computational and Systems Biologist, Islet Biologist, Developer, and Research Scientist!!
 
-<p align="center">
-  <img width="400" height="250" src="https://github.com/Dragonmasterx87/Gifs/blob/main/finalgetten.gif">
-</p>
-
-<p align="center">
-Saigo no Getsuga Tenshō 最後の月牙天衝
-</p>
 
 - 🔭 I’m currently working on: Computational approaches to dissect sex differences in human metabolism
 - 🏫 I have attended: [The University of Miami, Miller School of Medicine](https://med.miami.edu/) for a [PhD in Molecular Cell and Devlopmental Biology](https://med.miami.edu/en/graduate-studies/doctoral-programs/molecular-cell-and-developmental-biology), in the lab of [Dr. Juan Dominguez-Bendala](https://med.miami.edu/labs/dom%C3%ADnguez-bendala-lab).
