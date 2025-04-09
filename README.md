@@ -2,7 +2,7 @@
 ### I'm a Computational and Systems Biologist, Islet Biologist, Developer, and Research Scientist!!
 
 
-- 🔭 I’m currently working on: Computational approaches to dissect sex differences in human metabolism
+- 🔭 I’m currently a NIH NIDDK K99/R00 Postdoctoral Fellow at Tulane University School of Medicine working in the lab of Dr. Franck Mauvais-Jarvis
 - 🏫 I have attended: [The University of Miami, Miller School of Medicine](https://med.miami.edu/) for a [PhD in Molecular Cell and Devlopmental Biology](https://med.miami.edu/en/graduate-studies/doctoral-programs/molecular-cell-and-developmental-biology), in the lab of [Dr. Juan Dominguez-Bendala](https://med.miami.edu/labs/dom%C3%ADnguez-bendala-lab).
 - 👨‍🔬 I have studied the correlation of [BMP7 signalling and pancreas regeneration](https://scholarship.miami.edu/esploro/outputs/doctoral/Induction-of-Beta-Cell-Regeneration-by-Activin-Like-Kinase-3-Stimulation/991031447541002976)
 - 📜 You can read about my scientific publications in [Google Scholar](https://scholar.google.com/citations?user=RRFfx7YAAAAJ&hl=en) and [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=qadir%20MMF)
